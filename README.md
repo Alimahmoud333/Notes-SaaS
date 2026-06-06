@@ -2,7 +2,7 @@
 
 A full-stack SaaS application for personal note management and team collaboration.
 
----
+
 
 ## Project Structure
 
@@ -18,7 +18,7 @@ notes-saas/
 
 └── README.md
 
----
+
 
 ## Technologies
 
@@ -40,7 +40,7 @@ notes-saas/
 - Bootstrap
 - React Router
 
----
+
 
 ## Main Features
 
@@ -106,7 +106,7 @@ notes-saas/
 - Reminders Management
 - Notifications Management
 
----
+
 
 ## API Documentation
 
@@ -116,7 +116,7 @@ apidog/NotesSaaS.json
 
 Import the file into ApiDog to test all API endpoints.
 
----
+
 
 ## Running The Project
 
@@ -138,7 +138,7 @@ npm install
 
 npm run dev
 
----
+
 
 ## Author
 
